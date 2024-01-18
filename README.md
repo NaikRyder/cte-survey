@@ -1,5 +1,3 @@
-# Survey Data Transformation Readme
-
 ## Overview
 
 This readme provides instructions on how to transform survey data from students, where responses to various psychological questions are converted into numerical data. The purpose of this data transformation is to facilitate quantitative analysis and gain insights into the psychological aspects of the surveyed students.
